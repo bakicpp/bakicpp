@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Baki.<br>I'm studying at Bachelor of Computer Engineering. I'm currently working on mobile application development such as Flutter and React-Native
+Hi there! I'm Baki.<br>I'm studying at Bachelor of Computer Engineering. I'm currently working on mobile application development such as Flutter and Swift
 
 
 ## 🌐 Socials:
