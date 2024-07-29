@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there! I'm Baki.<br>I'm studying at Bachelor of Computer Engineering. I'm currently working on mobile application development such as Flutter, Swift and also as a backend tech .NET
 
+See my real time code activity at GitLab : gitlab.com/bakidev
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ybakiyumak/) 
